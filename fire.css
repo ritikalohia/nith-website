@@ -1,0 +1,21 @@
+body{
+	background-image:url("day.jpeg");
+	background-repeat: no-repeat;
+	background-position:top;
+	background-size:1100px;
+	background-attachment:scroll;
+
+}
+.velle{
+	background-color:white;
+	padding-top: 100px;
+	padding-bottom:50px;
+	padding-left:75px;
+	padding-right:75px;
+	width:550px;
+	float:center;
+	font-family:sans-serif;
+	color:black;
+    margin-left:400px;
+	text-align: center;
+}
